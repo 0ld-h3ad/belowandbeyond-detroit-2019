@@ -28,9 +28,9 @@ We will discuss the text and how it relates to other aspects of computation and 
 
 **Before First Class:**
 
-Fred Moten & Stephano Harney, [“The Only Possible Relationship to the University Today is a Criminal One”]() from [The Undercommons: Fugitive Planning & Black Study](http://www.minorcompositions.info/wp-content/uploads/2013/04/undercommons-web.pdf)
-
-   * This is a very brief reading to frame our time together. This text is harder to read than the texts we will read during class. Though it is short, take your time with it. As you read, please think about these questions:
+   * Fred Moten & Stephano Harney, [“The Only Possible Relationship to the University Today is a Criminal One”](/undercommons_university-today.pdf) from [The Undercommons: Fugitive Planning & Black Study](http://www.minorcompositions.info/wp-content/uploads/2013/04/undercommons-web.pdf)\
+   \
+   This is a very brief reading to frame our time together. This text is harder to read than the texts we will read during class. Though it is short, take your time with it. As you read, please think about these questions:
       
       * What is the role of SFPC as an institution?
       * What does it mean to be a student or teacher?
@@ -38,9 +38,9 @@ Fred Moten & Stephano Harney, [“The Only Possible Relationship to the Universi
 
 **Tuesday 8/20 4-6 PM:**
 
-   David Naguib Pellow and Lisa Sun-Hee Park, [“Early History and the Struggle for Resources”](/SiliconValley_2_EarlyHistory.pdf) from [The Silicon Valley of Dreams](https://nyupress.org/9780814767092/the-silicon-valley-of-dreams/)
+   * David Naguib Pellow and Lisa Sun-Hee Park, [“Early History and the Struggle for Resources”](/SiliconValley_2_EarlyHistory.pdf) from [The Silicon Valley of Dreams](https://nyupress.org/9780814767092/the-silicon-valley-of-dreams/)
 
 **Thursday 8/22 4-6 PM:**
 
-Jackie Wang, pp. 11-56 of ["Introduction"](/JackieWang_Introduction_CarceralCapitalism.pdf) from [Carceral Capitalism](https://mitpress.mit.edu/books/carceral-capitalism)
+   * Jackie Wang, pp. 11-56 of ["Introduction"](/JackieWang_Introduction_CarceralCapitalism.pdf) from [Carceral Capitalism](https://mitpress.mit.edu/books/carceral-capitalism)
 
