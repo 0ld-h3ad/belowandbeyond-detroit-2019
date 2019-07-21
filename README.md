@@ -18,7 +18,7 @@ Understanding this SFPC session as an *outside* to the University (or “the dow
 
    * Intro - 10 mins
    * Group reading - 1 hr \
-We will read aloud together as a group as much of the texts as we can. There will be intervals to add context and discuss/clarify things as we read through the texts.
+We will read aloud together as a group as much of the text as we can. There will be intervals to add context and discuss/clarify things as we read through the text.
   * Group Discussion - 45 mins \
 We will discuss the text and how it relates to other aspects of computation and social life.
 
