@@ -8,19 +8,17 @@ Understanding this SFPC session as an *outside* to the University (or “the dow
 
 **Expectations & Goals:**
 
-You will need a copy of the text in front of you during class, either print or digital.
-Come with the intent to have a deep engagement with the texts. Rather than focusing on output, I want to temporarily suspend what we know of the university and of computation to allow other conceptions to arise.
-Come ready to support others. We will learn the most if everyone contributes to class discussion. If you find yourself talking more than others, feel comfortable to step back so that others may speak.
-If during or after our first session you have suggestions for the class please let me know, I am open to adjusting the structure of the class in a way that is conducive to learning for everyone.
-Please refrain from using phones or computers during the class aside from what is necessary to participate in the class.
+   * You will need a copy of the text in front of you during class, either print or digital.
+   * Come with the intent to have a deep engagement with the texts. Rather than focusing on output, I want to temporarily suspend what we know of the university and of computation to allow other conceptions to arise.
+   * Come ready to support others. We will learn the most if everyone contributes to class discussion. If you find yourself talking more than others, feel comfortable to step back so that others may speak.
+   * If during or after our first session you have suggestions for the class please let me know, I am open to adjusting the structure of the class in a way that is conducive to learning for everyone.
+   * Please refrain from using phones or computers during the class aside from what is necessary to participate in the class.
 
 **Agenda (for both classes):**
 
    * Intro - 10 mins
-
    * Group reading - 1 hr \
 We will read aloud together as a group as much of the texts as we can. There will be intervals to add context and discuss/clarify things as we read through the texts.
-
   * Group Discussion - 45 mins \
 We will discuss the text and how it relates to other aspects of computation and social life.
 
