@@ -1,6 +1,6 @@
 # Below (the University) and Beyond (Technology)
 
-with American Artist | [americanartist.us](http://americanartist.us/) | [americanartist.us@gmail.com](mailto:americanartist.us@gmail.com)\
+with American Artist | [americanartist.us](http://americanartist.us/) | [americanartist.us@gmail.com](mailto:americanartist.us@gmail.com)
 
 ## Course Description: ##
 
