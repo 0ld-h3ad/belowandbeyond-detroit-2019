@@ -24,7 +24,7 @@ We will discuss the text and how it relates to other aspects of computation and 
 
 ## Readings: ##
 
-**Before First Class:**
+**Required Before First Class:**
 
    * Fred Moten & Stephano Harney, [“The Only Possible Relationship to the University Today is a Criminal One”](/undercommons_university-today.pdf) from [*The Undercommons: Fugitive Planning & Black Study*](http://www.minorcompositions.info/wp-content/uploads/2013/04/undercommons-web.pdf)\
    \
