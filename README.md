@@ -4,7 +4,7 @@ with American Artist | [americanartist.us](http://americanartist.us/) | [america
 
 ## Course Description: ##
 
-Understanding this SFPC session as an outside to the University (or “the downlow low-down maroon community of the university”) we will “steal what we can” as Fred Moten and Stephano Harney describe our purpose in the Undercommons. Taking advantage of the unique structure of our sessions, which are brief and intent and where hierarchy is discouraged, we will read together two texts by authors looking below and beyond what we understand of high technology today, to have a more complete view of the way in which we as students are a problem.
+Understanding this SFPC session as an *outside* to the University (or “the downlow low-down maroon community of the university”) we will “steal what we can” as Fred Moten and Stephano Harney describe our purpose in *The Undercommons*. Taking advantage of the unique structure of our sessions, which are brief and intent and where hierarchy is discouraged, we will read together two texts by authors looking below and beyond what we understand of high technology today, to have a more complete view of the way in which we as students are a *problem*.
 
 **Expectations & Goals:**
 
